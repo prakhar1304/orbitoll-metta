@@ -129,6 +129,9 @@ This opens your project in VS Code.
 
 MeTTa stands for **Meta Type Talk**. It's a programmable, symbolic reasoning language developed by SingularityNET as part of their AGI efforts. Think of it as a flexible logic-based language for building AI knowledge systems.
 
+![image](https://github.com/user-attachments/assets/6e8ae890-5067-4e33-b5f1-bb76f38a1281)
+
+
 ---
 
 ## Final Thoughts
